@@ -79,9 +79,7 @@ export default {
 	a:active {
 	color: black;
 	}
-a {
-	color: black;
-}
+
 
 div {
 	width: 45%;
@@ -101,11 +99,6 @@ p {
 	font-size: 1rem;
 	line-height: 1.3;
 	margin-block-end: 0;
-}
-
-a:hover {
-	opacity: 0.7;
-	transition: opacity 0.2s ease;
 }
 
 @media screen and (max-width: 610px) {

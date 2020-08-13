@@ -1,7 +1,7 @@
 <template>
 	<div class="hero">
 		<div class="image-holder">
-			<img src="../assets/me550.jpg" alt="Image of Vanaj Moorthy" />
+			<img src="../assets/psrth.png" alt="Image of Parth Sharma" />
 		</div>
 		<div class="text">
 			<div class="top-text">
@@ -25,10 +25,12 @@
 				</p>
 				<p>
 					My favourite musicians include John Mayer, Vulfpeck and
-					Andrew Bird; my favourite book is The Hitchhiker's Guide to
-					the Galaxy by Douglas Adams; my favourite poem is
+					Andrew Bird. 
+					<!-- my favourite book is The Hitchhiker's Guide to
+					the Galaxy by Douglas Adams. 
+					my favourite poem is
 					"Ozymandias by Percy Bysshe Shelly"; and my favourite colour
-					is #1da7ea.
+					is #1da7ea. -->
 				</p>
 			</div>
 		</div>

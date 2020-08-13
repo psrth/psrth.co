@@ -36,27 +36,14 @@
 				rel="noopener noreferrer"
 				>Last.fm</a
 			>
-			APIs. It's inspirations/plagiarism sources are
-			<a
-				href="https://kabirgoel.com"
-				target="_blank"
-				rel="noopener noreferrer"
-				>kabirgoel.com</a
-			>
-			and
-			<a
-				href="https://aesign.me"
-				target="_blank"
-				rel="noopener noreferrer"
-				>aesign.me</a
-			>. You can visit the source
+			APIs. <br><br>Check out the original
 			<a
 				href="https://github.com/vanajmoorthy/vanajmoorthy.com"
 				target="_blank"
 				rel="noopener noreferrer"
-				>here</a
-			>
-			if you see something you like!
+				>source code</a
+			> 
+			here! 
 		</p>
 	</div>
 </template>

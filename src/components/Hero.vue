@@ -22,11 +22,6 @@
 				</p>
 				<p>
 					Drop me a message — I'm always looking to work on fun new projects. Grab my resume <a href="#" target="_BLANK">here</a>.
-					<!-- my favourite book is The Hitchhiker's Guide to
-					the Galaxy by Douglas Adams. 
-					my favourite poem is
-					"Ozymandias by Percy Bysshe Shelly"; and my favourite colour
-					is #1da7ea. -->
 				</p>
 			</div>
 		</div>

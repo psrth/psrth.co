@@ -11,21 +11,17 @@
 			</div>
 			<div class="bottom-text">
 				<p class="b-margin">
-					I'm an incoming freshman at the University of St. Andrews
-					and an outgoing senior from The Shri Ram School. I'm an avid
-					web developer with a focus on front-end and back-end in
-					Node.js.
+					Incoming freshman at <a href="https://www.bits-pilani.ac.in/" target="_BLANK">BITS Pilani</a>. Currently working
+					as lead front-end developer and UI/UX designer at <a href="https://www.indy.fit" target="_BLANK">Indy Fit</a>. 
+					Also a co-founder of <a href="https://www.theorangeyak.co" target="_BLANK">The Orange Yak Co</a>.
 				</p>
 				<p class="b-margin">
-					I also love digital art and animation. I do 3D art in
-					Blender, motion graphics in After Effects, and illustration
-					in Illustrator. I also play the guitar, bass, drums and
-					piano and I have an advanced + deep diving scuba diving
-					certification from PADI.
+					I'm an avid web and mobile app developer, as well as a UI/UX and graphic designer. 
+					Proficient with Java, JS, Vue.js, Tailwind, Bootstrap, Flutter, and tools like Adobe XD, Blender 2.8, Illustrator, and Photoshop. 
+					Currently learning backend in Django and Python. I also <a href="https://www.medium/psrth" target="_BLANK">write sometimes</a>.
 				</p>
 				<p>
-					My favourite musicians include John Mayer, Vulfpeck and
-					Andrew Bird. 
+					Drop me a message — I'm always looking to work on fun new projects. Grab my resume <a href="#" target="_BLANK">here</a>.
 					<!-- my favourite book is The Hitchhiker's Guide to
 					the Galaxy by Douglas Adams. 
 					my favourite poem is
@@ -44,6 +40,30 @@ export default {
 </script>
 
 <style scoped>
+/* unvisited link */
+	a:link {
+	font-weight: 500;
+	color: #4f4f4f;
+	text-decoration: none;
+	}
+
+	/* visited link */
+	a:visited {
+		font-weight: 500;
+	color: #4f4f4f;
+	text-decoration: none;
+	}
+
+	/* mouse over link */
+	a:hover {
+	color: black;
+	/* text-decoration: underline dotted black; */
+	}
+
+	/* selected link */
+	a:active {
+	color: black;
+	}
 img {
 	height: 400px;
 	border-radius: 8px;
@@ -109,5 +129,6 @@ p {
 		margin-bottom: 1rem;
 		margin-top: 1rem;
 	}
+	
 }
 </style>

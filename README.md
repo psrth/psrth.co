@@ -1,19 +1,13 @@
-# vanajmoorthy.com
+# psrth.co
 
-### 🐢 My personal website
+### My personal website 🦕
 
-Hosted at https://vanajmoorthy.com
+Hosted at https://psrth.co
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3852719d-64dc-44fe-8ee3-6cbf850f248f/deploy-status)](https://app.netlify.com/sites/vanajmoorthy/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/63250f28-3048-47b2-b0ef-0d0125c015cd/deploy-status)](https://app.netlify.com/sites/practical-williams-90b09f/deploys)
 
 * Clone the website
 * Grab dependencies with `npm i`
 * Serve with `npm start`
 
 Technologies used: Vue.js, Font Awesome, Behance API, Last.fm API.
-
-
-For older versions of my website, check 
-
-https://github.com/vanajmoorthy/v4, https://github.com/vanajmoorthy/v3, https://github.com/vanajmoorthy/v2 or https://github.com/vanajmoorthy/v1
-# psrth.co

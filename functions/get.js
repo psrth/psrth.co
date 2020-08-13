@@ -2,7 +2,7 @@ import fetch from "node-fetch";
 import encoding from "encoding";
 
 const API_ENDPOINT =
-	"https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=vanajmoorthy&api_key=027290639419a799cfc42d71d39ec7aa&format=json";
+	"https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=psrth&api_key=4448fa2fbe054ba65d586767315e49d2&format=json";
 
 exports.handler = async (event, context) => {
 	return fetch(API_ENDPOINT)

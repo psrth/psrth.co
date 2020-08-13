@@ -128,19 +128,19 @@ body {
 	width: 40px;
 }
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1600px) {
 	.home {
 		margin: 2rem 20rem;
 	}
 }
 
-@media screen and (max-width: 1380px) {
+@media screen and (max-width: 1450px) {
 	.home {
 		margin: 2rem 15rem;
 	}
 }
 
-@media screen and (max-width: 936px) {
+@media screen and (max-width: 836px) {
 	.home {
 		margin: 2rem;
 	}

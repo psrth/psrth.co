@@ -11,4 +11,5 @@ Hosted at https://psrth.co
 * Serve with `npm start`
 
 Technologies used: Vue.js, Font Awesome, Behance API, Last.fm API.
+
 Source Code developed by @vanajmoorthy

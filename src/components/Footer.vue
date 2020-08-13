@@ -1,12 +1,11 @@
 <template>
 	<div>
 		<p>
-			"In the beginning the Universe was created. This has made a lot of
-			people very angry and been widely regarded as a bad move."
+			"Those who dream by day are cognizant of many things which escape those who dream only by night."
 		</p>
 		<div class="row">
 			<p class="italic">
-				— Douglas Adams, The Restaurant at the End of the Universe
+				— Edgar Allan Poe
 			</p>
 			<p class="top" @click="scrollToTop">Go to top</p>
 		</div>

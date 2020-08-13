@@ -55,6 +55,30 @@ export default {
 </script>
 
 <style scoped>
+/* unvisited link */
+	a:link {
+	font-weight: 500;
+	color: #4f4f4f;
+	text-decoration: none;
+	}
+
+	/* visited link */
+	a:visited {
+		font-weight: 500;
+	color: #4f4f4f;
+	text-decoration: none;
+	}
+
+	/* mouse over link */
+	a:hover {
+	color: black;
+	/* text-decoration: underline dotted black; */
+	}
+
+	/* selected link */
+	a:active {
+	color: black;
+	}
 a {
 	color: black;
 }

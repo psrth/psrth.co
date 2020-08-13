@@ -48,7 +48,7 @@ export default {
 	},
 	mounted() {
 		const url =
-			"https://www.behance.net/v2/users/vanajmoorthy/projects?client_id=ZLBxK9rEfHwJf9K0rmseNr2fS2gS2HJW";
+			"https://www.behance.net/v2/users/psrth/projects?client_id=ZLBxK9rEfHwJf9K0rmseNr2fS2gS2HJW";
 		$.ajax({
 			url: url,
 			type: "get",

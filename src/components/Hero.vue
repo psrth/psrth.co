@@ -11,7 +11,7 @@
 			</div>
 			<div class="bottom-text">
 				<p class="b-margin">
-					<!-- Incoming freshman at <a href="https://www.bits-pilani.ac.in/" target="_BLANK">BITS Pilani</a>.  -->
+					Incoming freshman at <a href="https://www.bits-pilani.ac.in/" target="_BLANK">BITS Pilani</a>.
 					Currently working as lead front-end developer and UI/UX designer at <a href="https://www.indy.fit" target="_BLANK">Indy Fit</a>. 
 					Also a co-founder of <a href="https://www.theorangeyak.co" target="_BLANK">The Orange Yak Co</a>.
 				</p>
